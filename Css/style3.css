@@ -1,0 +1,12 @@
+header {
+    background: rgb(0, 0, 0);
+    border-bottom: 2px rgb(0, 0, 0) solid;
+
+    position: relative;
+}
+
+.forms {
+    position: relative;
+    text-align: center;
+    top: 30px;
+}
